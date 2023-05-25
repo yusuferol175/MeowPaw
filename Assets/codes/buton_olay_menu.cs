@@ -224,9 +224,4 @@ public class buton_olay_menu : MonoBehaviour
         cost.text = PlayerPrefs.GetInt("peynirsayisi").ToString();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
