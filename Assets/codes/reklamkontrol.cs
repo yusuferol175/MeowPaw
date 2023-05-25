@@ -94,9 +94,4 @@ public class reklamkontrol : MonoBehaviour
             this.rewardedAd.Show();
         }
     }
-
-    void Update()
-    {
-        
-    }
 }
