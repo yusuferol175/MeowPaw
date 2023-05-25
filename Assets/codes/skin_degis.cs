@@ -130,9 +130,4 @@ public class skin_degis : MonoBehaviour
 
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
