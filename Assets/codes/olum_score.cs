@@ -27,9 +27,4 @@ public class olum_score : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
