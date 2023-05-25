@@ -71,10 +71,5 @@ public class olum_olay : MonoBehaviour
 
         
     }
-    
-    
-    void Update()
-    {
-        
-    }
+
 }
