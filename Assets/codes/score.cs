@@ -10,12 +10,6 @@ public class score : MonoBehaviour
     
     public static float skor;
 
-    void Start()
-    {
-        //PlayerPrefs.DeleteAll();
-        
-    }
-
     
     void Update()
     {
@@ -25,13 +19,6 @@ public class score : MonoBehaviour
             
                 skor += 1 * Time.deltaTime;
                 scoretext.text = ((int)skor).ToString();
-
-            
-            
-            
-        }
-        
-
-        
+        } 
     }
 }
