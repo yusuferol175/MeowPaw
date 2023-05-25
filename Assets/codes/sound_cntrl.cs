@@ -35,9 +35,4 @@ public class sound_cntrl : MonoBehaviour
         kapansesi = true;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
